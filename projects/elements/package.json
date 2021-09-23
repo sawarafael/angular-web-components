@@ -1,0 +1,12 @@
+{
+  "name": "wc-elements",
+  "version": "1.0.0",
+  "description": "a angularComponentToWork",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": "false",
+  "author": "rafaelSoares",
+  "license": "ISC",
+  "files": ["elements.js, styles.css"]
+}
